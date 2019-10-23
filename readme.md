@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{An exercise for Epicodus}, {10.22.2019}_
+#### _An exercise for Epicodus, 10.22.2019_
 
-#### By _**{Cole Anneberg}**_
+#### By _**Cole Anneberg**_
 
 ## Description
 
-_{This is a webpage set up as part of an Epicodus exercise.}_
+_This is a webpage set up as part of an Epicodus exercise._
 
 ## Setup/Installation Requirements
 
@@ -15,19 +15,19 @@ _{This is a webpage set up as part of an Epicodus exercise.}_
 
 ## Known Bugs
 
-_{There are no known bugs with this code.}_
+_There are no known bugs with this code._
 
 ## Support and contact details
 
-_{Please contact cole@hawes.group if there are any questions.}_
+_Please contact cole@hawes.group if there are any questions._
 
 ## Technologies Used
 
-* _{Atom}_
-* _{HTML}_
+* _Atom_
+* _HTML_
 
 ### License
 
-*{No license.}*
+*No license.*
 
-Copyright (c) 2019 **_{Cole Anneberg}_**
+Copyright (c) 2019 **_Cole Anneberg_**
